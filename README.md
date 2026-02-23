@@ -5,13 +5,13 @@ Built on relational database principles, it is designed to model a real-world CR
 
 With a fully implemented backend, it demonstrates how data can be effectively organized and stored in an SQL database, with a Java-based data management workflow.
 
-**CRM - Primary Features:**
+**CRM - Primary Features**
 - Creation and cancellation of customer reservations
 - Dynamic and automated management of customers' VIP status across the database 
 - Robust search tool for customer information
 - Automated busness policy compliance across the database (capacity, discount, availability)
 
-**Real-Time B2C KPI Reporting and Data Visualization **
+**Real-Time B2C KPI Reporting and Data Visualization**
 - Bookings per month, per every type of suite available
 - Expenses by month aggregated to show quarterly trends
 - Seasonal trends in customer booking behavior
